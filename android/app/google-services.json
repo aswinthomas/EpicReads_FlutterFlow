@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "420293674587",
+    "project_id": "epicreads-f140a",
+    "storage_bucket": "epicreads-f140a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420293674587:android:f8f9ba080dac1fc746e17e",
+        "android_client_info": {
+          "package_name": "com.aswindev.books"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420293674587-rukn8nree954bdg8m8m8earphkmmo22a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aswindev.books",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "420293674587-ll5bmc1mf84k14p24sjftnsmqppugni4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGRrA7OGhE24ikmav3KBygQv8xOtfgOng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420293674587-ll5bmc1mf84k14p24sjftnsmqppugni4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420293674587-d5l4qd8q05r3kq2jjqbi4s833173vqn4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aswindev.books"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420293674587:android:42a5a863ee0c768b46e17e",
+        "android_client_info": {
+          "package_name": "com.aswindev.epicreads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420293674587-76eiveqg69ee3ampvqlta6mcrkjf9qdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aswindev.epicreads",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "420293674587-ll5bmc1mf84k14p24sjftnsmqppugni4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGRrA7OGhE24ikmav3KBygQv8xOtfgOng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420293674587-ll5bmc1mf84k14p24sjftnsmqppugni4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420293674587-d5l4qd8q05r3kq2jjqbi4s833173vqn4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aswindev.books"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420293674587:android:6623029d90acc06e46e17e",
+        "android_client_info": {
+          "package_name": "com.aswindev.epicreadsflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420293674587-nco4fqkskj1pru0ufa52mm7o4f3du22j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aswindev.epicreadsflutter",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "420293674587-ll5bmc1mf84k14p24sjftnsmqppugni4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGRrA7OGhE24ikmav3KBygQv8xOtfgOng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420293674587-ll5bmc1mf84k14p24sjftnsmqppugni4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "420293674587-d5l4qd8q05r3kq2jjqbi4s833173vqn4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aswindev.books"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
